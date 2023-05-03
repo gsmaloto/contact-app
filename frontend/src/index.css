@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.copy {
+  clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 28% 74%, 0 100%, 7% 76%, 0% 75%);
+}
